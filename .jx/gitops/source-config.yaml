@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: caiqitest
+    - name: velaux
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
