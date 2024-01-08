@@ -12,6 +12,7 @@ spec:
     - name: newtest
     - name: test1
     - name: test2
+    - name: test3
     - name: velaux
     scheduler: in-repo
   slack:
