@@ -10,6 +10,7 @@ spec:
     repositories:
     - name: caiqitest
     - name: newtest
+    - name: test
     - name: test1
     - name: velaux
     scheduler: in-repo

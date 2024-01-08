@@ -19,9 +19,16 @@ spec:
   - key: dev
   - key: staging
   - key: production
+  - gitKind: github
+    gitServer: https://github.com
+    key: test
+    owner: caiqi1111
+    promotionStrategy: Never
+    remoteCluster: true
+    repository: test
   ingress:
     domain: ""
-    externalDNS: false
+    kind: ingress
     namespaceSubDomain: -jx.
     tls:
       email: ""
