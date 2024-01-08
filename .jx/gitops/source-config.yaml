@@ -11,6 +11,7 @@ spec:
     - name: caiqitest
     - name: newtest
     - name: test1
+    - name: test2
     - name: velaux
     scheduler: in-repo
   slack:
